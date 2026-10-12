@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imb-main.vercel.app/sitemap.xml
